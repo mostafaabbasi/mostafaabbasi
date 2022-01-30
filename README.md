@@ -2,7 +2,12 @@
   Hi there , I'm Mostafa 👋
 </h1>
 
-(https://github-readme-stats.vercel.app/api?username=mostafaabbasi)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+ <a href="#" alt="Moien Tajik's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoienTajik&theme=gotham&show_icons=true" />
+ </a>
+</p>
+
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
