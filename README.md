@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
- <a href="#" alt="Moien Tajik's github stats">
+ <a href="#" alt="Mostafa Abbasi's github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=mostafaabbasi&theme=tokyonight&show_icons=true" />
  </a>
 </p>
