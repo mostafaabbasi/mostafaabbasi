@@ -3,9 +3,7 @@
 </h1>
 
 <p align="center">
- <a href="#" alt="Mostafa Abbasi's github stats">
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mostafaabbasi)](https://github.com/anuraghazra/github-readme-stats)
- </a>
 </p>
 
 
