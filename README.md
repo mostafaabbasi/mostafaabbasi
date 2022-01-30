@@ -2,7 +2,7 @@
   Hi there , I'm Mostafa 👋
 </h1>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mostafaabbasi)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=mostafaabbasi)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
