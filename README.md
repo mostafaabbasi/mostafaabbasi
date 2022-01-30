@@ -2,10 +2,10 @@
   Hi there , I'm Mostafa 👋
 </h1>
 
-<p align="center"> 
- <strong>
-  Skills
-  </strong>
+<p align="center">
+ <a href="#" alt="Mostafa Abbasi's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafaabbasi&theme=tokyonight&show_icons=true" />
+ </a>
 </p>
 
 <p align="center"> 
@@ -15,11 +15,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
 </p>
-
-<p align="center">
- <a href="#" alt="Mostafa Abbasi's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafaabbasi&theme=tokyonight&show_icons=true" />
- </a>
-</p>
-
-
