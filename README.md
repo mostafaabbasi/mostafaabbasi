@@ -4,7 +4,7 @@
 
 <p align="center">
  <a href="#" alt="Mostafa's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafaabbasi&theme=gotham&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafaabbasi&theme=gotham&show_icons=true&count_private=true&include_all_commits=true" />
  </a>
 </p>
 
@@ -12,7 +12,6 @@
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
